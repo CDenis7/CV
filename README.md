@@ -1,4 +1,6 @@
-# CV
+IWNO1: Server virtual
+Realizat de: Crudu Denis I2301
+Data:15.02.2025
 Scop
 Am descarcat distributivul Debian pentru servere pentru arhitectura x64 (fără interfață grafică) și sistemul de virtualizare (hypervizor) QEMU.
 Executare
